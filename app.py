@@ -29,11 +29,11 @@ st.markdown("Takımını seç, güçleri ayarla; Poisson ve xG motoru ile detayl
 
 # 2. Takım Veritabanı ve Logoları (İkon / Renk Eşleşmeli)
 TEAMS_DB = {
-    "Galatasaray": {"emoji": "🦁", "color": "#A90432", "def": 82, "att": 88},
+    "Galatasaray": {"emoji": "♥️🧡", "color": "#A90432", "def": 82, "att": 88},
     "Fenerbahçe": {"emoji": "🟡🔵", "color": "#002D62", "def": 81, "att": 87},
     "Beşiktaş": {"emoji": "🦅", "color": "#111111", "def": 79, "att": 83},
     "Trabzonspor": {"emoji": "storm", "color": "#800000", "def": 78, "att": 80},
-    "Adana Demirspor": {"emoji": "⚡", "color": "#000080", "def": 75, "att": 79},
+    "Adanaspor": {"emoji": "🧡🤍", "color": "#000080", "def": 75, "att": 79},
     "Başakşehir": {"emoji": "🟠", "color": "#FF6600", "def": 80, "att": 77},
     "Real Madrid": {"emoji": "👑", "color": "#FEBE10", "def": 89, "att": 93},
     "Barcelona": {"emoji": " Blaugrana", "color": "#004D98", "def": 87, "att": 91},
